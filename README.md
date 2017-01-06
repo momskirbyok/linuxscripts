@@ -16,7 +16,7 @@ To set this script up, please do this:
 
 1) Download the script
 
-2) Move to /bin/
+2) Move to /bin/ (you will more than likely need root rights to do this)
 
 3) Open up a Terminal and run 'crontab -e' while logged in as the Pi user
 
