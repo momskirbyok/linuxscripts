@@ -26,5 +26,5 @@ To set this script up, please do this:
 
 5) Save the file.
 
-6) Insure that it has been written to the file by running 'crontab -l'.
+6) Ensure that it has been written to the file by running 'crontab -l'.
 
