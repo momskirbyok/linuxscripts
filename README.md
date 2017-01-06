@@ -22,7 +22,7 @@ To set this script up, please do this:
 
 
 
-4) Paste in "1 * * * 5 sh /bin/updatePiHole.sh"
+4) Paste in "0 1 * * 5 sh /bin/updatePiHole.sh"
 
 5) Save the file.
 
