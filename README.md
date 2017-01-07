@@ -28,3 +28,7 @@ To set this script up, please do this:
 
 6) Ensure that it has been written to the file by running 'crontab -l'.
 
+7) Run cd /bin/
+
+8) Run sudo chmod +x updatePiHole.sh (Thanks Greeny :P)
+
