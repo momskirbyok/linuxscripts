@@ -1,5 +1,10 @@
+#Makes the updatePihole script an executable 
+
+sudo chmod +x /bin/updatePihole.sh
 
 #change directory to desktop
+
+
 cd ~/Desktop
 #makes log file to write to
 touch piHoleUpdate.log
